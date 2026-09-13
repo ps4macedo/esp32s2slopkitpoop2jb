@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "schema_version": 2,
   "flash_size": 4194304,
-  "build_id": "d023f27bba7de87433bf20844c2ab1414efa9bff68ef2f7bbf6d8f9f105a80a2",
+  "build_id": "9aeffaae7e3c447dabf8fb851f0fd16d91bab9c1a99382a3bb410ba0c8f2a0ff",
   "new_install_prompt_erase": false,
   "builds": [
     {
@@ -33,9 +33,9 @@
         {
           "path": "firmware/HostPSM_ESP32S2.bin",
           "offset": 65536,
-          "size": 3464896,
-          "sha256": "34647a63f4cf5b91e4d9f73923753ef4d67bc7ad405512eada77d0e8515d5dee",
-          "md5": "d1df1fa24ca0e5016b25dce5e1d09944"
+          "size": 3496736,
+          "sha256": "3c41ea59af3ad083c93230349c2886578c984cd6f7d33b8e3875e05c8f3127de",
+          "md5": "fa0ea41abc51ece16a4e8e6e1abe041d"
         }
       ]
     }
