@@ -1,7 +1,7 @@
 # Host PSM • ESP32-S2
 
 Web Installer local do Host PSM v1.1.0. Revisão do instalador: 2026-09-12-r1.
-Compatibilidade informada pelo projeto: PS5 FW **9.00–12.70**.
+Compatibilidade informada pelo projeto: PS5 FW **12.02–12.70**.
 
 ## Gerar e publicar
 
